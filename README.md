@@ -1,6 +1,6 @@
 # Machine Learning Repository
 
-![Machine Learning Image](https://miro.medium.com/max/1200/1*PVtMfPnXr7VQJffQ0n21Gw.jpeg)
+![Machine Learning Image](https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 This repository contains code and resources for learning and applying machine learning techniques. Machine learning is a field of artificial intelligence that uses statistical methods to enable computer systems to improve their performance on a specific task through experience. 
 
